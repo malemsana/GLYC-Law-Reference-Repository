@@ -1,0 +1,23 @@
+{
+"manifest_version": 1,
+"packs": {
+"central-laws": {
+"version": "v2026_05_30",
+"type": "sqlite",
+"path": "ACTs/central/center_laws_2020.zip",
+"sha256": "<sha256-hash>",
+"size": 13624571
+}
+},
+"constitution": {
+"languages": {
+"en": {
+"version": "v2024_05_01",
+"type": "pdf",
+"path": "constitution/central-laws-v2026_05_30.pdf",
+"sha256": "<sha256-hash>",
+"size": 2456789
+}
+}
+}
+}
