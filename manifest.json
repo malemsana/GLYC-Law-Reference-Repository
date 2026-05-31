@@ -1,23 +1,111 @@
 {
-"manifest_version": 1,
-"packs": {
-"central-laws": {
-"version": "v2026_05_30",
-"type": "sqlite",
-"path": "ACTs/central/center_laws_2020.zip",
-"sha256": "<sha256-hash>",
-"size": 13624571
-}
-},
-"constitution": {
-"languages": {
-"en": {
-"version": "v2024_05_01",
-"type": "pdf",
-"path": "constitution/central-laws-v2026_05_30.pdf",
-"sha256": "<sha256-hash>",
-"size": 2456789
-}
-}
-}
+  "manifest_version": 1,
+  "generated_at": "2026-05-31T01:25:44.025082Z",
+  "hash_algorithm": "sha256",
+  "files": {
+    "LICENSE": {
+      "sha256": "98a113cedb003c8afce98e468dde434b05c33d942467a16f913e4d7852edb901",
+      "size": 7170
+    },
+    "ACTs/The Bharatiya Nyaya Sanhita (BNS), 2023.pdf": {
+      "sha256": "ff92dcc72778944011807644b6033b1140ddbe6d7e9f82ac32fd419dae03aa86",
+      "size": 896392
+    },
+    "ACTs/THE INDIAN PENAL CODE.pdf": {
+      "sha256": "038c736730c09d5b72b1642ab8056607ca546c0b87631811da1a30accd08f81d",
+      "size": 1529218
+    },
+    "constitution/constitution-as_v2025_11_01.pdf": {
+      "sha256": "0adab575d0951f74efcf347a03ee461d3cf4c075152572835e8aaed993f32314",
+      "size": 9740543
+    },
+    "constitution/constitution-bn_v2023_01_01.pdf": {
+      "sha256": "4d49e14316dde404d1c6c20377152e271e21045c4257dbfe108dc7d9f928cd39",
+      "size": 24393522
+    },
+    "constitution/constitution-brx_v2025_11_01.pdf": {
+      "sha256": "2d880721285a6bb189ab7db3e3ed46cd9e227e547bdc3202e9d0c9410e6377ec",
+      "size": 7117330
+    },
+    "constitution/constitution-doi_v2021_09_15.pdf": {
+      "sha256": "1ffe0f507211925cccba000cc9055de6cdb410b59cb62e3e3a07bcfff764f779",
+      "size": 8504245
+    },
+    "constitution/constitution-en-v2024_05_01.pdf": {
+      "sha256": "819ba7adc5e5ae4063f26c82472283ba682ddb662e5a7f864cf26984d99b26ed",
+      "size": 2413611
+    },
+    "constitution/constitution-gu_v2026_02_01.pdf": {
+      "sha256": "f088076b333467136fa900f0d99dc432ffb52d6bdcc42f55d1cd4bb7b828a2c9",
+      "size": 7164228
+    },
+    "constitution/constitution-kn_v2025_11_11.pdf": {
+      "sha256": "485d637c268bd079cf07a81e7a1df05ea785e3effda167a4f19699e97279ee50",
+      "size": 6655162
+    },
+    "constitution/constitution-kok_v2004_01_26.pdf": {
+      "sha256": "4e7815478a79b68d705b31528a43e3bce122868ab1cf1aaf4e3943dca67e5530",
+      "size": 31417425
+    },
+    "constitution/constitution-ks_v2024_05_01.pdf": {
+      "sha256": "fbfed5cd02ba460eb6c19e29f92860414b9020df564ca8c207424f69e42b14d7",
+      "size": 9573311
+    },
+    "constitution/constitution-mai_v2024_05_01.pdf": {
+      "sha256": "d6002b0c9a5efa0abaf67cf9129cfa9826615fba899c527f14b539a2d5bff24a",
+      "size": 5268834
+    },
+    "constitution/constitution-ml_v2024_02_17.pdf": {
+      "sha256": "d001a5b4a1546f6dcf4c6f9c136b63504289627b4e560046fdbc10ee5e59d4d5",
+      "size": 2404584
+    },
+    "constitution/constitution-mn_v2023_11_01.pdf": {
+      "sha256": "96e310278ce4c83d8d1c579c1a74deda7deee431be04abb1f373b53939f252c9",
+      "size": 10179217
+    },
+    "constitution/constitution-mr_v2025_05_01.pdf": {
+      "sha256": "690b780cf35413e92949ad48c92f9c55241623adf9fcddc6cc31c8ef2ca68a38",
+      "size": 6510505
+    },
+    "constitution/constitution-ne_v2025_11_01.pdf": {
+      "sha256": "e1c0b5ecf2ba8b2085ee0af15343da726d9aaddc204088317a3434eca3575d81",
+      "size": 6502918
+    },
+    "constitution/constitution-or_v2025_11_01.pdf": {
+      "sha256": "1b86cfbe9ce050bfc81a71bfdf34a4b3efcd74825a7e587f0b5da4925fb87070",
+      "size": 13315538
+    },
+    "constitution/constitution-pa_v2024_05_01.pdf": {
+      "sha256": "bdd7a7f34acc59d7982ed6d1f4980804aee5023a35285d9524f4f682e8f613eb",
+      "size": 9707795
+    },
+    "constitution/constitution-sat_v2025_11_01.pdf": {
+      "sha256": "34f9537ee5dfce3d754b449886a051e61b49d2473eeef3098bdd9825dade4d10",
+      "size": 5159939
+    },
+    "constitution/constitution-sa_v2024_05_01.pdf": {
+      "sha256": "372ac83d168ef1fa8255995301e57b3e94ffc65f8f353f949fda5ab94db87b61",
+      "size": 6274287
+    },
+    "constitution/constitution-sd_v2026_04_01.pdf": {
+      "sha256": "134a544872247cb11344c81a47ec94d94c241efbc5d44f6864bc07e1c7ee3962",
+      "size": 7307712
+    },
+    "constitution/constitution-ta_v2025_10_31.pdf": {
+      "sha256": "4988a9b9bec6046516fc09aea7bd6fab55f8cbfa5a83ece35a5fc166c573692c",
+      "size": 10479267
+    },
+    "constitution/constitution-te_v2025_01_01.pdf": {
+      "sha256": "7dae1ef1ad3c201563563b68152b685b2b8ca0a307a75a53e818f1bb81488675",
+      "size": 6685693
+    },
+    "constitution/constitution-ur_v2023_09_28.pdf": {
+      "sha256": "16db488028ab316159442c2caad0e44b515b721ba1c210581354f1a7ec329bae",
+      "size": 5785380
+    },
+    "ACTs/central/central-laws-v2020_01_01.zip": {
+      "sha256": "f416e91309efda96774688d1468da8a8fc9bc88e8aef6c7ae556040c86ca88f1",
+      "size": 13781923
+    }
+  }
 }
